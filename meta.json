@@ -6,9 +6,9 @@
    "copyright": "Artwork Copyright (C) Kirigakure",
    "actions": {
 	   "default": {
-          "xoff":0,
-	      "yoff": 10,
-	      "scale": 50
+              "xoff": -120,
+	      "yoff": 340,
+	      "scale": 22
 	   }
    }
 }
