@@ -1,4 +1,4 @@
-# Window sitter kancolle Ryuujou
+# Window sitter Kancolle Ryuujou
 
 ![](https://i.imgur.com/NaeQMQx.gif)
 
