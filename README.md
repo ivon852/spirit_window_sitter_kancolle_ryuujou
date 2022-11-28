@@ -1,9 +1,9 @@
 # Window sitter kancolle Ryuujou
 
-![](https://i.imgur.com/NaeQMQx.gifv)
+![](https://i.imgur.com/NaeQMQx.gif)
 
 Kancolle Ryuujou for [Spirit](https://github.com/antony-jr/spirit), the window sitter/mascot on Linux.
 
-Please use [Ritual](https://github.com/antony-jr/ritual) for creating `.spirite` files.
+use [Ritual](https://github.com/antony-jr/ritual) for creating `.spirite` files or download from [Releases]().
 
 Artwork credit: 霧隱
