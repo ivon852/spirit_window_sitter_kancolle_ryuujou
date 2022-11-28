@@ -6,4 +6,4 @@ Kancolle Ryuujou for [Spirit](https://github.com/antony-jr/spirit), the window s
 
 use [Ritual](https://github.com/antony-jr/ritual) for creating `.spirite` files or download from [Releases]().
 
-Artwork credit: 霧隱
+Artwork credit: [霧隱](https://twitter.com/kirigakure_ll)
