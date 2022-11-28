@@ -1,0 +1,14 @@
+{
+   "name": "Ryuujou",
+   "edition": "2021",
+   "version": "v0.0.1",
+   "author": "Ivon852",
+   "copyright": "Artwork Copyright (C) Kirigakure",
+   "actions": {
+	   "default": {
+          "xoff":0,
+	      "yoff": 10,
+	      "scale": 50
+	   }
+   }
+}
